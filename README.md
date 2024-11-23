@@ -27,7 +27,7 @@ The ER Diagram defines the relationships between these entities, ensuring proper
 
 3. **Data Population**
 
-- Tables were populated with sample data derived from the ![Superstore dataset](https://github.com/OlaIpaye/superstore/tree/main/dataset), including:
+- Tables were populated with sample data derived from the [Superstore dataset](https://github.com/OlaIpaye/superstore/tree/main/dataset), including:
 
   - Customer and product details
   - Orders with various payment modes
@@ -61,3 +61,7 @@ The ER Diagram defines the relationships between these entities, ensuring proper
 - **SQL Server** (for database creation and querying)
 
 * **ChatGPT** (for project breakdown and assistance)
+
+### **Contact**
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/oladimeji-ipaye/) or explore my other projects on [GitHub](https://github.com/OlaIpaye).
