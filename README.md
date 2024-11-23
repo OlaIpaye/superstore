@@ -2,6 +2,8 @@
 
 This project demonstrates the design, implementation, and querying of a relational database for a fictional e-commerce platform called Superstore. It is modelled to simulate real-world business operations such as managing customers, products, orders, and returns.
 
+![alt text](<images/10. ER diagram created with lucid chart.png>)
+
 ## **Key Components**
 
 1. **ER Diagram Design**
@@ -25,7 +27,7 @@ The ER Diagram defines the relationships between these entities, ensuring proper
 
 3. **Data Population**
 
-- Tables were populated with sample data derived from the Superstore dataset, including:
+- Tables were populated with sample data derived from the ![Superstore dataset](https://github.com/OlaIpaye/superstore/tree/main/dataset), including:
 
   - Customer and product details
   - Orders with various payment modes
