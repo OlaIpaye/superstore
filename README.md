@@ -25,6 +25,8 @@ The ER Diagram defines the relationships between these entities, ensuring proper
   - Data types were optimized for storage efficiency.
   - Data Population into all the tables.
 
+Here are some snippets of the table stru
+
 3. **Data Population**
 
 - Tables were populated with sample data derived from the [Superstore dataset](https://github.com/OlaIpaye/superstore/tree/main/dataset), including:
@@ -43,6 +45,14 @@ The ER Diagram defines the relationships between these entities, ensuring proper
   - What is the average price of products sold?
   - How many orders are handled by each employee?
   - All orders payed with credit cards for all furnitures
+
+### **Table Schemas**
+
+- **Customer table schema**:
+  ![customer table schema using sql server](<images/11. customer table structure.png>)
+
+- **Order and Order details table schemas**:
+  ![order and order details table schemas using sql server](<images/12. orders and order details tables structures.png>)
 
 ### **Key SQL Queries**
 
